@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_education"
+        android:title="Eğitim Bilgileri"
+        android:icon="@drawable/ic_education"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/menu_item_bachelor"
+                android:title="Lisans"/>
+            <item
+                android:id="@+id/menu_item_master"
+                android:title="Yüksek Lisans"/>
+            <item
+                android:id="@+id/menu_item_phd"
+                android:title="Doktora"/>
+        </menu>
+    </item>
+
+</menu>

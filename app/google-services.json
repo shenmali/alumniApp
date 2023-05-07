@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40219905194",
+    "project_id": "studentapp-901f8",
+    "storage_bucket": "studentapp-901f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40219905194:android:7d56703dd0dc5f28e894d3",
+        "android_client_info": {
+          "package_name": "com.ty.AlumniApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40219905194-rgdd34ue4r64vl055eiceapc90k25590.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjC9HVOcGm5gttxHSEGrRZ42RmFQTJcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40219905194-rgdd34ue4r64vl055eiceapc90k25590.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
